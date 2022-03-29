@@ -1,1 +1,1 @@
-Git branches are separate versions of repositories. This means you can edit copies of files that don't effect the current live repository files. This is very useful for fixing small mistakes without completely changing a repository.
+Git branches are separate versions of repositories. This means you can edit copies of files that don't effect the current main repository. This is extremely helpful for fixing any mistake without committing to changing the live repository files.
